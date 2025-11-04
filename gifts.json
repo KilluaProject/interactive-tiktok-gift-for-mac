@@ -1,0 +1,28 @@
+{
+  "rose": {
+    "keys": [
+      "p",
+      "u",
+      "k"
+    ],
+    "durations": [
+      200,
+      200,
+      200
+    ],
+    "sounds": []
+  },
+  "perfume": {
+    "keys": [
+      "p",
+      "u",
+      "k"
+    ],
+    "durations": [
+      200,
+      200,
+      200
+    ],
+    "sounds": []
+  }
+}

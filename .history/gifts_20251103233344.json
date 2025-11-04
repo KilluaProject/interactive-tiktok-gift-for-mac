@@ -1,0 +1,17 @@
+{
+  "perfume": { 
+    "keys": ["p", "u", "b"], 
+    "durations": [200, 300, 250], 
+    "sounds": [
+      { "file": "perfume.mp3", "volume": 1 }
+    ] 
+  },
+  "rose": { 
+    "keys": ["s"], 
+    "durations": [3000], 
+    "sounds": [
+      { "file": "fart.mp3", "volume": 1 },
+      { "file": "laugh.mp3", "volume": 0.7 }
+    ] 
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "rose": {
+    "keys": [
+      "a"
+    ],
+    "durations": [
+      5000
+    ],
+    "sounds": [
+      {
+        "file": "fart.mp3",
+        "volume": 1
+      }
+    ]
+  }
+}
